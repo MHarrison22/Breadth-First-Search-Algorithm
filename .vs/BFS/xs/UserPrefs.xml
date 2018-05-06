@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{135DEDB5-B533-4832-8E71-2CA76574E663}|Default">
+  <MonoDevelop.Ide.ItemProperties.BFS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BFS/Program.cs">
+    <Files>
+      <File FileName="BFS/Program.cs" Line="30" Column="46" />
+      <File FileName="BFS/Data.xml" Line="30" Column="1" />
+      <File FileName="BFS/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
